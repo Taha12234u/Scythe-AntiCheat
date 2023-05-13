@@ -1,7 +1,7 @@
 {
-  "name": "scythe-anticheat",
+  "name": "taha-anticheat",
   "version": "2.14.0",
-  "description": "Scythe AntiCheat - The best anticheat designed for Minecraft Bedrock realms/worlds/servers",
+  "description": " Taha anticheat - The best anticheat designed for Minecraft Bedrock realms/worlds/servers",
   "main": "main.js",
   "repository": {
     "type": "git",
