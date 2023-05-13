@@ -146,7 +146,7 @@ export function flag(player, check, checkType, hackType, debugName, debug, shoul
                 banLength = parseTime(punishmentLength);
             }
 
-            player.addTag("by:Scythe Anticheat");
+            player.addTag("by:Taha Anticheat");
             player.addTag(`reason:Scythe Anticheat detected Unfair Advantage! Check: ${check}/${checkType}`);
             if(typeof banLength === "number") player.addTag(`time:${Date.now() + banLength}`);
             player.addTag("isBanned");
